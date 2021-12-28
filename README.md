@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL here](https://your-solution-url.com)
-- [Live site URL here](https://your-live-site-url.com)
+- [Solution URL here](https://github.com/Irs-mp/3-column-card)
+- [Live site URL here](https://irs-mp.github.io/3-column-card/)
 
 ## My process
 
